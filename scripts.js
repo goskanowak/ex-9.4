@@ -11,4 +11,5 @@ function drawTree (height) {
     }
 }
 // document.getElementById('tree').innerHTML = star;
+// jak zrobić aby choinka wyświetlała się na stronie, a nie tylko w konsoli?
     drawTree(10);
